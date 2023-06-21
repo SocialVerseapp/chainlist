@@ -2038,6 +2038,9 @@ export const extraRpcs = {
   7341: {
     rpcs: ["https://rpc.shyft.network/"],
   },
+  75555: {
+    rpcs: ["https://rpc-mainnet.socialverse.app/"],
+  },
   8000: {
     rpcs: ["https://dataseed.testnet.teleport.network"],
   },
